@@ -1,5 +1,5 @@
 
-# I'm Schan
+# I'm S-chan
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=s-chan-o&theme=tokyonight&show_icons=true" width="42%" />
